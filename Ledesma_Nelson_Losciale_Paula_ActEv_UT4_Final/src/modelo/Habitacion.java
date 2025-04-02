@@ -1,6 +1,6 @@
 package modelo;
 
-class Habitacion {
+public class Habitacion {
 
     // Atributos
     private int numeroHabitacion;
